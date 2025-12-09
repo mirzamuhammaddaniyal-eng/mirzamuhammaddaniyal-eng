@@ -9,6 +9,7 @@ Most of my recent work is around **FastAPI**, **async IO**, **background task pr
 
 ## 🧠 What I’m good at
 
+- Building production-style LLM microservices and API agents
 - Designing **REST APIs** and microservices with FastAPI
 - Writing **clean, modular Python** with type hints and clear structure
 - Using **async IO** for background jobs and high-throughput services
